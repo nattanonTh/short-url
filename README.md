@@ -1,6 +1,6 @@
 # short-url
 
-1. clone project and set local host with domain "www.short-url.com"
+1. clone project and set local host with domain "www.short-url.com" and run composer install
 2. setup database in App/Config/Database currect is as below
 		'hostname' => 'localhost',
 		'username' => 'homestead',
